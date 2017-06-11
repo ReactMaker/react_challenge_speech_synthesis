@@ -2,7 +2,7 @@
 
 使用SpeechSynthesisUtterance讓瀏覽器說話。
 
-![Imgur](http://imgur.com/a/NlwSc)
+![Imgur](http://i.imgur.com/8SAYnQUr.png)
 
 ## [DEMO](https://reactmaker.github.io/react_challenge_speech_synthesis/#/)
 
